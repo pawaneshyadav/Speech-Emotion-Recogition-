@@ -6,7 +6,7 @@ import wave
 from sys import byteorder
 from array import array
 from struct import pack
-from sklearn.ensemble import GradientBoostingClassifier, BaggingClassifier
+from sklearn.ensemble import GradientBoostingClassifier
 
 from utils import get_best_estimators
 
